@@ -128,3 +128,16 @@ a:hover
 {
   color:black;
 }
+
+#scene_container
+{
+  text-align: center;
+  position: absolute;
+}
+
+#info_header
+{
+  margin-top: 150px;
+  margin-bottom: 0px;
+  position: absolute;
+}
